@@ -35,6 +35,7 @@ Un atacante obtiene acceso a niveles superiores dentro del sistema. Puede ser:
 Se previene con auditorías y controles de seguridad.
 
 c. Secuestro de cuentas
+
 Implica el control total de una cuenta mediante robo de credenciales. Afecta la integridad de datos y operaciones. Se detecta monitoreando accesos sospechosos y comportamientos anómalos.
 
 d. Ataques a servicios de metadatos
