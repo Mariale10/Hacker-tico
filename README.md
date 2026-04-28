@@ -2,7 +2,7 @@ Resumen de la lectura del módulo 7, módulo 8, módulo 9 y módulo 10
 
 MÓDULO 7
 
-*1. Contexto general de la computación en la nube*
+/1. Contexto general de la computación en la nube/
 
 Muchas organizaciones están migrando hacia la nube o usando modelos híbridos para aprovechar beneficios como escalabilidad, acceso remoto y eficiencia operativa. Este cambio también implica retos en seguridad, por lo que existen estándares (como los del NIST) que orientan buenas prácticas. La nube se caracteriza por ofrecer servicios bajo demanda, accesibles desde la red y gestionados de forma automatizada.
 
