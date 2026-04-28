@@ -32,7 +32,6 @@ b. Escalamiento de privilegios
 Un atacante obtiene acceso a niveles superiores dentro del sistema. Puede ser:
 - Vertical: obtiene más permisos.
 - Horizontal: accede a cuentas con mismos privilegios.
-
 Se previene con auditorías y controles de seguridad.
 
 c. Secuestro de cuentas
