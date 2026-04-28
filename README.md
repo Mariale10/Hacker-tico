@@ -26,9 +26,11 @@ Se clasifican según el nivel de control del usuario:
 4. Principales amenazas y ataques en la nube
    
 a. Recolección de credenciales
+
 Ataques como phishing y sitios falsos buscan robar datos de acceso. Se apoyan en ingeniería social y malware, aumentando el riesgo a medida que crece el uso de la nube.
 
 b. Escalamiento de privilegios
+
 Un atacante obtiene acceso a niveles superiores dentro del sistema. Puede ser:
 - Vertical: obtiene más permisos.
 - Horizontal: accede a cuentas con mismos privilegios.
